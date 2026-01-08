@@ -49,4 +49,6 @@ The objective of this project is to analyze sales performance, profitability, an
 
 ---
 
-## 🔹 Au
+## 🔹 Author
+**Bade Naveen Kumar**  
+Aspiring Data Analyst | Power BI
